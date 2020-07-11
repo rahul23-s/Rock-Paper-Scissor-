@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor-
-A Rock Paper Scissor Game programmed in Python.
+A Rock Paper Scissor Game (Text-Based) programmed in Python.
 
 This program asks for your choice i.e. Rock(r) , Paper (p) or Scissor (s).
 And Computer plays against you and it also chooses its option. 
